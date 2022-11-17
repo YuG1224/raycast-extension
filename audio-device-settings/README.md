@@ -5,12 +5,14 @@ audio-device-settings is an extension for Raycast
 ## Installation
 
 ```sh
+brew install switchaudio-osx
 npm install && npm run dev
 ```
 
 ## Usage
 
 - Set Input Audio Device
+- Set Output Audio Device
 - Mute the input audio device
 - Unmute the input audio device
 - Toggle input audio device mute
